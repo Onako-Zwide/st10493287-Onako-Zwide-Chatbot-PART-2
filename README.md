@@ -64,7 +64,7 @@ I then created a memory system that:
 - Remembers returning users using file storage
 - Personalises responses based on previous conversations
 
-#
+# SentimentDetection.cs
 I implemented sentiment detection to identify user emotions such as:
 - Worried
 - Curious
