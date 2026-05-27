@@ -19,7 +19,7 @@ The chatbot provides interactive responses, remembers users, and adapts replies 
 
 # GUI
 I designed a WPF-based graphical user interface for my chatbot.
-My interface includes:
+My Interface includes:
 -A clean chat bubble system for both user and chatbot messages
 -A scrollable chat area to view conversation history
 -A typing indicator to simulate real-time responses
